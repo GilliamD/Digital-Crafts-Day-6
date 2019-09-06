@@ -10,5 +10,6 @@ class Cat:
 
 
 gus = Cat('Gus', 9)
+beans = Cat('Beans', 10)
 
 print(gus.description())
